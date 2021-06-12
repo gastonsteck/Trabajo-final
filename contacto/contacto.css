@@ -1,0 +1,19 @@
+body{
+    background-color: #e4efe7;
+}
+#card1{
+    background-color: #fdfaf6;
+    border: 1px solid grey;
+    padding: 30px;
+}
+
+#comollegar:hover{
+    background-color: blanchedalmond;
+    transition-delay:100ms ;
+    transition-duration: 500ms;
+}
+#card2{
+    background-color: #fdfaf6;
+    border: 1px solid grey;
+    padding: 30px;
+}
